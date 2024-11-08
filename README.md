@@ -16,7 +16,6 @@ Este repositório contém uma variedade de projetos criados para aprimorar minha
 | **FreeCodeCamp**           | Projetos de treinamento desenvolvidos durante cursos da plataforma.       |
 | **Dankie Code**            | Exercícios práticos realizados nos cursos da Dankie Code.                 |
 | **MIMO**                   | Projetos de treinamento desenvolvidos no app MIMO.                        |
-| **Full Stack Week**        | Projeto de aplicação SaaS desenvolvido durante a Full Stack Week.         |
 
 ## Tecnologias Utilizadas
 - **Linguagens**: Python, JavaScript, HTML, CSS
@@ -33,8 +32,7 @@ Para clonar este repositório em sua máquina local, siga estas etapas:
 
 No terminal (Windows, Mac ou Linux), execute o comando:
 
-*bash
-git clone https://github.com/EdsonST/Projetos
+*bash: git clone https://github.com/EdsonST/Projetos
 
 ## Como Contribuir
 Se você tiver ideias para melhorar este projeto ou deseja contribuir com código, fique à vontade para fazer um fork do repositório e enviar um pull request. Toda contribuição é bem-vinda!
